@@ -3,4 +3,5 @@
 write=nobody
 execute=authenticated 
   **/ 
- //my file			this for auto deploy ravi
+ //my file			this for auto deploy ravi 
+ //now purge is off

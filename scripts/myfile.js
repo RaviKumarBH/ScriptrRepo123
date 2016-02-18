@@ -3,4 +3,4 @@
 write=nobody
 execute=authenticated 
   **/ 
- //my file			
+ //my file			this for auto deploy
